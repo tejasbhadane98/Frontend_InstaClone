@@ -1,0 +1,28 @@
+{
+  "user":[
+  {
+      "name": "Pratik",
+      "location": "Virkhel",
+      "likes": 65,
+      "description": "Kick start your career",
+      "PostImage": "https://images.pexels.com/photos/531602/pexels-photo-531602.jpeg?auto=compress&cs=tinysrgb&w=500&h=750&dpr=1",
+      "date": "14 Nov 2022"
+    },
+    {
+      "name": "Siva",
+      "location": "Bengaluru",
+      "likes": 64,
+      "description": "Kick start your career",
+      "PostImage": "https://images.pexels.com/photos/544542/pexels-photo-544542.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "date": "14 Nov 2022"
+    },
+    {
+      "name": "Tejas Bhadane",
+      "location": "Pune",
+      "likes": "6M",
+      "description": "Kick start your career",
+      "PostImage": "https://images.pexels.com/photos/1819657/pexels-photo-1819657.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "date": "14 Nov 2022"
+    }
+  ]
+}
